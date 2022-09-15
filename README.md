@@ -2,6 +2,7 @@
 - 👀 I am interested in learning about coding!
 - 🌱 I’m currently learning full stack web development using Javascript (OdinProject & Freecodecamp)
 - 💞️ I’m looking to collaborate on ...anything
+- 🖥 Volunteer Computer Refurbisher/IT support @peoplesresourcecenter
 - 📫 jenambo09@gmail.com
 
 <!---
