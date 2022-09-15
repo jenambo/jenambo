@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jenambo
-- 👀 I’m interested in ... full stack & mobile app development, 3d printing, video games & board games
-- 🌱 I’m currently learning ...full stack web development
+- 👋 Hello! My name is Jaime Nambo 
+- 👀 I am interested in learning about coding!
+- 🌱 I’m currently learning full stack web development using Javascript (OdinProject & Freecodecamp)
 - 💞️ I’m looking to collaborate on ...anything
-- 📫 How to reach me ...
+- 📫 jenambo09@gmail.com
 
 <!---
 jenambo/jenambo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
